@@ -1,0 +1,38 @@
+body {
+    font-family: Courier;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+div {
+    width: 360px;
+    text-align:justify ;
+    padding: 30px 20px 20px 40px;
+}
+
+.fondoazul {
+    background-color: skyblue;
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    z-index: 0;
+}
+
+.fondoamarillo {
+    background-color: lemonchiffon;
+    position: absolute;
+    right: 520px;
+    bottom: 400px;
+    z-index: -100;
+}
+
+.boton {
+    background-color: gainsboro;
+    border-width: 4px;
+    border-style: solid;
+    border-color: silver silver gray gray;
+    opacity: 0.8;
+    z-index: -200;
+    position: absolute;
+}

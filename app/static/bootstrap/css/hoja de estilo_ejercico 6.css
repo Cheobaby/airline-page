@@ -1,0 +1,34 @@
+body{
+  background-color: rgb(243, 210, 161);
+}
+
+table {
+    font-family: roboto;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .re{
+    background-color: #2E697D;
+  }
+
+  .ra{
+    background-color: #31DECD;
+  }
+
+  .xw{
+    background-color: #E46960;
+  }
+
+  .rt{
+    background-color: #F3F75F;
+  }
+  
+
+

@@ -1,0 +1,20 @@
+body {
+    font-family: Arial;
+}
+
+table {
+    width: 500px;
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+td p{
+    text-align: justify;
+}
+
+.pequenia{
+    font-size: 12px;
+}

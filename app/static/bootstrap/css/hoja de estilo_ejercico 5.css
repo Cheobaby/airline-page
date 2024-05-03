@@ -1,0 +1,46 @@
+
+h4,p{
+font-family:Arial;
+font-size: 10px;
+}
+
+p {
+    width: 500px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.rojo{
+    color: red;
+}
+
+.azul{
+    color: blue;
+}
+
+.fondogris{
+    background-color: #BFC9ca;
+}
+
+.conborde{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.consangria{
+    margin-left: 50px;
+}
+
+.masancho{
+    width: 600px;
+}
+
+.masangosto{
+    width: 150;
+}
+
+.transparente{
+    opacity: 0.5;
+}
+

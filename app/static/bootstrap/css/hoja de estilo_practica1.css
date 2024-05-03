@@ -1,0 +1,80 @@
+body{
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+table {
+  font-family: roboto;
+  border-collapse: collapse;
+  width: 100%;
+}
+  
+th {
+  border: white 7px groove;
+  text-align: center;
+  padding: 10px;
+  width: 15%;
+}
+
+.tdr{
+  border: white 7px groove;
+  text-align: center;
+  padding: 10px;
+  width: 15%;
+}
+
+.little{
+  font-size: 12px;
+}
+
+.col1{
+  background-color: #F1948A;
+}
+
+.col2{
+  background-color: #A9CCE3;
+}
+
+.col3{
+  background-color: #ABEBC6;
+}
+
+.col4{
+  background-color: #F9E79F;
+}
+
+.col5{
+  background-color: #66FF99;
+}
+
+.col6{
+  background-color: #B39DDB;
+}
+
+.col7{
+  background-color: #FFEB3B;
+}
+
+.col8{
+  background-color: #BDBDBD;
+}
+
+.col9{
+  background-color: #CCFF66;
+}
+
+.col10{
+  background-color: #999966;
+}
+
+.col11{
+  background-color: #424949;
+}
+
+
+
+
+
+
+
+
